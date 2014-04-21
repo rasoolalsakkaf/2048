@@ -41,7 +41,7 @@ h1.title {
 @keyframes move-up {
   0% {
     top: 25px;
-    opacity: 1; }
+    opacity: 40; }
 
   100% {
     top: -50px;
@@ -307,7 +307,7 @@ hr {
   transition-property: transform; }
   .tile .tile-inner {
     border-radius: 3px;
-    background: #eee4da;
+    background: url(http://images.vantage-media.net/a/clients/YahooEdu/article/2467.jpg);
     text-align: center;
     font-weight: bold;
     z-index: 10;
@@ -369,7 +369,7 @@ hr {
     font-size: 35px; }
     @media screen and (max-width: 520px) {
       .tile.tile-2048 .tile-inner {
-        font-size: 15px; } }
+        font-size: 500px; } }
   .tile.tile-super .tile-inner {
     color: #f9f6f2;
     background: #3c3a32;
